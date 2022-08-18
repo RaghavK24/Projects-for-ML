@@ -14,10 +14,10 @@ In this part we will start with 2 types of problem for the SVM algorithm
 
 ## Aim :
 
-Classification :
+#### Classification :
 Visualize and identify each class of the different classes and draw the dividing line by each dataset for testing
 
-Regression :
+#### Regression :
 Visualize the data points and draw the regression line and predict the salary of an employee at level 4.5 and 8.5
 
 ## Steps to follow :
@@ -25,21 +25,33 @@ Visualize the data points and draw the regression line and predict the salary of
 #### Classification
 
 -Import the necessary libraries
+
 -Import the dataset and identify the data and labels (matrix X and vector Y)
+
 -Divide data into training and test sets for data and labels
+
 -Establish features scaling if needed
+
 -Create a SVC object for Classification from SVM library
+
 -Fit the dataset (training set)
+
 -Predict the result (test set)
+
 -Evaluate the model
 
 #### Regression
 
 -Import the necessary libraries
+
 -Import the dataset
+
 -Establish features scaling if needed
+
 -Create a SVR object for Regression from SVM library
+
 -Fit the dataset
+
 -Predict the result
 
 ## Result :
