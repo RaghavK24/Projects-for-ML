@@ -8,13 +8,9 @@ The "SVM Code Breakdown.pdf" is where i printed the results of all the processes
 
 Dataset to use
 In this part we will start with 2 types of problem for the SVM algorithm
-1) First SVM for Classification : We are using the “Social Network Ads” dataset on kaggle here is the link of this dataset Social_Network_Ads
+1) First SVM for Classification : We are using the “Social Network Ads” dataset on kaggle here is the link of this dataset Social_Network_Ads.The dataset is composed of 5 columns known as [User ID, Gender, Age, Estimated Salary and Purchased] and 400 row
 
-Dataset compose of 5 columns known as [User ID, Gender, Age, Estimated Salary and Purchased] and 400 row
-
-2) Second SVM for Regression : We are using the “Position Salaries” dataset on kaggle here is the link of this dataset Position_Salaries
-
-Dataset compose of 3 columns known as [Position, Level and Salary] and 10 row
+2) Second SVM for Regression : We are using the “Position Salaries” dataset on kaggle here is the link of this dataset Position_Salaries.The dataset is composed of 3 columns known as [Position, Level and Salary] and 10 row
 
 ## Aim :
 
@@ -28,7 +24,7 @@ Visualize the data points and draw the regression line and predict the salary of
 
 #### Classification
 
--Import the necessary libraries\n
+-Import the necessary libraries
 -Import the dataset and identify the data and labels (matrix X and vector Y)
 -Divide data into training and test sets for data and labels
 -Establish features scaling if needed
