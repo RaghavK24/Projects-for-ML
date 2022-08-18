@@ -22,7 +22,7 @@ Visualize the data points and draw the regression line and predict the salary of
 
 ## Steps to follow :
 
-#### Classification
+#### Classification :
 
 -Import the necessary libraries
 
@@ -40,7 +40,7 @@ Visualize the data points and draw the regression line and predict the salary of
 
 -Evaluate the model
 
-#### Regression
+#### Regression :
 
 -Import the necessary libraries
 
