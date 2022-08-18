@@ -16,7 +16,7 @@ Dataset compose of 5 columns known as [User ID, Gender, Age, Estimated Salary an
 
 Dataset compose of 3 columns known as [Position, Level and Salary] and 10 row
 
-### Aim :
+## Aim :
 
 Classification :
 Visualize and identify each class of the different classes and draw the dividing line by each dataset for testing
@@ -24,7 +24,7 @@ Visualize and identify each class of the different classes and draw the dividing
 Regression :
 Visualize the data points and draw the regression line and predict the salary of an employee at level 4.5 and 8.5
 
-### Steps to follow :
+## Steps to follow :
 
 #### Classification
 
@@ -46,7 +46,7 @@ Visualize the data points and draw the regression line and predict the salary of
 -Fit the dataset
 -Predict the result
 
-### Result :
+## Result :
 
 #### Classification: 
 
