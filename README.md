@@ -28,7 +28,7 @@ Visualize the data points and draw the regression line and predict the salary of
 
 #### Classification
 
--Import the necessary libraries
+-Import the necessary libraries\n
 -Import the dataset and identify the data and labels (matrix X and vector Y)
 -Divide data into training and test sets for data and labels
 -Establish features scaling if needed
