@@ -2,7 +2,7 @@
 
 This contains everything I have done regarding SVM, including "Support Vector Machine.ipynb" which contains detailed notes on the working of SVM and the creation of a pseudo SVM machine made by us.
 
-The "SVM Code Breakdown.pdf" is where i printed the results of all the processes that take place. This was just to have a deeper understanding of the code. This is in pdf format as the file was way to big in .ipynb format
+The "SVM Code Breakdown.pdf" is where i printed the results of all the processes that take place. This was just to have a deeper understanding of the code. This is in pdf format as the file was way too big in .ipynb format
 
 ## Project :
 
