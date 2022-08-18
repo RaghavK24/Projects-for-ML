@@ -17,7 +17,8 @@ from sklearn.svm import SVR
 regressor = SVR() # add this parametre kernel='linear' for a linear model
 regressor.fit(X,Y.ravel())
 
-y_pred = sc_Y.inverse_transform(regressor.predict(sc_X.transform(np.array([[8.5]]))).reshape(-1,1))
+def y_pred(x) :
+    return(sc_Y.inverse_transform(regressor.predict(sc_X.transform(np.array([[x]]))).reshape(-1,1)))
 
 # Visualisation the regression result
 plt.scatter(x=X, y=Y,color='red')
@@ -27,4 +28,5 @@ plt.xlabel('Position level')
 plt.ylabel('Salary')
 plt.show()
 
-print(y_pred)
+print(y_pred(4.5))
+print(y_pred(8.5))
